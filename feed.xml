@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Peihao Yang</title>
+        <link>https://forsworns.github.io//</link>
+        <description>Personal Blog</description>
+        <lastBuildDate>Sun, 08 Feb 2026 02:01:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Peihao Yang</title>
+            <url>https://forsworns.github.io/assets/logo.png</url>
+            <link>https://forsworns.github.io//</link>
+        </image>
+        <copyright>MIT License</copyright>
+        <atom:link href="https://forsworns.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欢迎来到我的博客]]></title>
+            <link>https://forsworns.github.io///zh/blogs/20260208/</link>
+            <guid>https://forsworns.github.io///zh/blogs/20260208/</guid>
+            <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[这是我的第一篇博客文章]]></description>
+            <content:encoded><![CDATA[<p>[[toc]]</p>
+<p>欢迎来到我的个人博客！这里我会分享关于Rust和C++开发的技术文章。</p>
+<h2>关于我</h2>
+<p>我是一名专注于Rust和C++开发的程序员，毕业于昆明理工大学，目前居住在广东深圳。</p>
+<h2>技术栈</h2>
+<ul>
+<li><strong>Rust</strong>: 系统编程、WebAssembly、异步编程</li>
+<li><strong>C++</strong>: 高性能计算、游戏开发、嵌入式系统</li>
+<li><strong>其他</strong>: Git、Linux、Docker</li>
+</ul>
+<h2>未来计划</h2>
+<p>我计划在这个博客中分享：</p>
+<ul>
+<li>Rust和C++的学习心得</li>
+<li>项目开发经验</li>
+<li>技术问题解决方案</li>
+<li>编程最佳实践</li>
+</ul>
+<p>感谢您的访问！</p>
+]]></content:encoded>
+            <author>peihao.young@gmail.com (Peihao Yang)</author>
+        </item>
+    </channel>
+</rss>

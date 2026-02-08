@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Peihao Yang",
+    "home_page_url": "https://forsworns.github.io//",
+    "feed_url": "https://forsworns.github.io//feed.json",
+    "description": "Personal Blog",
+    "icon": "https://forsworns.github.io/assets/logo.png",
+    "author": {
+        "name": "Peihao Yang",
+        "url": "https://forsworns.github.io/"
+    },
+    "items": [
+        {
+            "content_html": "<p>[[toc]]</p>\n<p>欢迎来到我的个人博客！这里我会分享关于Rust和C++开发的技术文章。</p>\n<h2>关于我</h2>\n<p>我是一名专注于Rust和C++开发的程序员，毕业于昆明理工大学，目前居住在广东深圳。</p>\n<h2>技术栈</h2>\n<ul>\n<li><strong>Rust</strong>: 系统编程、WebAssembly、异步编程</li>\n<li><strong>C++</strong>: 高性能计算、游戏开发、嵌入式系统</li>\n<li><strong>其他</strong>: Git、Linux、Docker</li>\n</ul>\n<h2>未来计划</h2>\n<p>我计划在这个博客中分享：</p>\n<ul>\n<li>Rust和C++的学习心得</li>\n<li>项目开发经验</li>\n<li>技术问题解决方案</li>\n<li>编程最佳实践</li>\n</ul>\n<p>感谢您的访问！</p>\n",
+            "url": "https://forsworns.github.io///zh/blogs/20260208/",
+            "title": "欢迎来到我的博客",
+            "summary": "这是我的第一篇博客文章",
+            "date_modified": "2026-02-08T00:00:00.000Z",
+            "author": {
+                "name": "Peihao Yang",
+                "url": "https://forsworns.github.io/"
+            }
+        }
+    ]
+}
