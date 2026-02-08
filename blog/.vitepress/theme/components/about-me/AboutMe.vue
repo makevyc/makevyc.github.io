@@ -2,7 +2,7 @@
   <div class="main">
     <el-row :align="'middle'" justify="center">
       <el-col :span="8">
-        <img src="/assets/selfie_cartoon.jpg" class="avatar" />
+        <img src="/assets/selfie_cartoon.png" class="avatar" />
       </el-col>
       <el-col :span="16">
         <el-row>
