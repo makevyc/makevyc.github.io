@@ -60,4 +60,4 @@ jobs:
           destination-github-username: "makevyc"
           destination-repository-name: "makevyc.github.io"
           user-email: ${{ secrets.MAIL }}
-          target-branch: master
+          target-branch: main
